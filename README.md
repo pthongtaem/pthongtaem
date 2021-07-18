@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Profile!!!
+
+## My GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=pthongtaem&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pthongtaem&theme=dark" width="48%" >
+
+## Top Languages
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthongtaem&layout=compact)
 
 <!--
 **pthongtaem/pthongtaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
